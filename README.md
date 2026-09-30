@@ -14,33 +14,33 @@ A collection of **most of the icons from Albion Online** — **2,948 PNG files**
 
 ### Folder index
 
-| Folder | Contents |
-| --- | --- |
-| `arena/` | Arena crests, tier logos and victory / defeat badges |
-| `avatar-rings/` | Avatar rings and frames (event rings, ADC rings, …) |
-| `buildings/` | Building icons (crafting stations, farms, armory, …) |
-| `crystal-league/` | Crystal League icons (runes, match, realm results) |
-| `cursors/` | Mouse cursors (attack, crafting, gold / crystal variants) |
-| `destiny/` | Destiny Board node icons (masteries, specializations) |
-| `fx/` | Faction symbols and effect-related icons |
-| `guild-symbols/` | Guild emblems / symbols |
-| `human-avatars/` | Character portraits and avatars |
-| `icons/` | Generic game icons (mounts, continents, seals, …) |
-| `illustrations/` | Illustrations and promo / offer artwork |
-| `image-random/` | Misc. activities, event and UI images |
-| `item-types/` | Item category and station type icons (`TYPE_*`) |
-| `journal/` | Journal / progression category icons |
-| `maps/` | Map tiles and minimap icons |
-| `mobs/` | Creature and boss icons |
-| `npcs/` | NPC portraits and icons |
-| `objects/` | World objects (statues, chests, traps, …) |
-| `props/` | Small props and status / warning markers |
-| `rings/` | Ring icons (`RING_*`) |
-| `sa/` | `SA_*` badges, including locked / unlocked variants |
-| `seasons/` | GvG season frames and splashes |
-| `statues/` | Anniversary statue icons |
-| `tutorial/` | Tutorial icons |
-| `ui/` | UI elements: logos, buttons, buffs, banners |
+| Folder            | Contents                                                  |
+| ----------------- | --------------------------------------------------------- |
+| `arena/`          | Arena crests, tier logos and victory / defeat badges      |
+| `avatar-rings/`   | Avatar rings and frames (event rings, ADC rings, …)       |
+| `buildings/`      | Building icons (crafting stations, farms, armory, …)      |
+| `crystal-league/` | Crystal League icons (runes, match, realm results)        |
+| `cursors/`        | Mouse cursors (attack, crafting, gold / crystal variants) |
+| `destiny/`        | Destiny Board node icons (masteries, specializations)     |
+| `fx/`             | Faction symbols and effect-related icons                  |
+| `guild-symbols/`  | Guild emblems / symbols                                   |
+| `human-avatars/`  | Character portraits and avatars                           |
+| `icons/`          | Generic game icons (mounts, continents, seals, …)         |
+| `illustrations/`  | Illustrations and promo / offer artwork                   |
+| `image-random/`   | Misc. activities, event and UI images                     |
+| `item-types/`     | Item category and station type icons (`TYPE_*`)           |
+| `journal/`        | Journal / progression category icons                      |
+| `maps/`           | Map tiles and minimap icons                               |
+| `mobs/`           | Creature and boss icons                                   |
+| `npcs/`           | NPC portraits and icons                                   |
+| `objects/`        | World objects (statues, chests, traps, …)                 |
+| `props/`          | Small props and status / warning markers                  |
+| `rings/`          | Ring icons (`RING_*`)                                     |
+| `sa/`             | `SA_*` badges, including locked / unlocked variants       |
+| `seasons/`        | GvG season frames and splashes                            |
+| `statues/`        | Anniversary statue icons                                  |
+| `tutorial/`       | Tutorial icons                                            |
+| `ui/`             | UI elements: logos, buttons, buffs, banners               |
 
 ### Notes
 
@@ -60,33 +60,33 @@ Colección con **la mayoría de los iconos de Albion Online** — **2.948 ficher
 
 ### Índice de carpetas
 
-| Carpeta | Contenido |
-| --- | --- |
-| `arena/` | Estandartes de arena, logos por nivel e insignias de victoria / derrota |
-| `avatar-rings/` | Anillos y marcos de avatar (de eventos, ADC, …) |
-| `buildings/` | Iconos de edificios (estaciones de crafteo, granjas, armería, …) |
-| `crystal-league/` | Iconos de la Liga de Cristal (runas, partida, resultados del reino) |
-| `cursors/` | Cursores del ratón (ataque, crafteo, variantes gold / crystal) |
-| `destiny/` | Iconos de nodos del Tablero del Destino (maestrías, especializaciones) |
-| `fx/` | Símbolos de facción e iconos de efectos |
-| `guild-symbols/` | Emblemas / símbolos de gremio |
-| `human-avatars/` | Retratos y avatares de personaje |
-| `icons/` | Iconos genéricos del juego (monturas, continentes, sellos, …) |
-| `illustrations/` | Ilustraciones y arte promocional / de ofertas |
-| `image-random/` | Imágenes varias de actividades, eventos e interfaz |
-| `item-types/` | Iconos de categorías de objeto y tipos de estación (`TYPE_*`) |
-| `journal/` | Iconos de categorías del diario / progresión |
-| `maps/` | Tiles de mapa e iconos de minimapa |
-| `mobs/` | Iconos de criaturas y jefes |
-| `npcs/` | Retratos e iconos de NPC |
-| `objects/` | Objetos del mundo (estatuas, cofres, trampas, …) |
-| `props/` | Props pequeños y marcadores de estado / aviso |
-| `rings/` | Iconos de anillos (`RING_*`) |
-| `sa/` | Insignias `SA_*`, incluidas las variantes bloqueado / desbloqueado |
-| `seasons/` | Marcos y pantallas de temporada GvG |
-| `statues/` | Iconos de estatuas de aniversario |
-| `tutorial/` | Iconos del tutorial |
-| `ui/` | Elementos de interfaz: logos, botones, buffs, banners |
+| Carpeta           | Contenido                                                               |
+| ----------------- | ----------------------------------------------------------------------- |
+| `arena/`          | Estandartes de arena, logos por nivel e insignias de victoria / derrota |
+| `avatar-rings/`   | Anillos y marcos de avatar (de eventos, ADC, …)                         |
+| `buildings/`      | Iconos de edificios (estaciones de crafteo, granjas, armería, …)        |
+| `crystal-league/` | Iconos de la Liga de Cristal (runas, partida, resultados del reino)     |
+| `cursors/`        | Cursores del ratón (ataque, crafteo, variantes gold / crystal)          |
+| `destiny/`        | Iconos de nodos del Tablero del Destino (maestrías, especializaciones)  |
+| `fx/`             | Símbolos de facción e iconos de efectos                                 |
+| `guild-symbols/`  | Emblemas / símbolos de gremio                                           |
+| `human-avatars/`  | Retratos y avatares de personaje                                        |
+| `icons/`          | Iconos genéricos del juego (monturas, continentes, sellos, …)           |
+| `illustrations/`  | Ilustraciones y arte promocional / de ofertas                           |
+| `image-random/`   | Imágenes varias de actividades, eventos e interfaz                      |
+| `item-types/`     | Iconos de categorías de objeto y tipos de estación (`TYPE_*`)           |
+| `journal/`        | Iconos de categorías del diario / progresión                            |
+| `maps/`           | Tiles de mapa e iconos de minimapa                                      |
+| `mobs/`           | Iconos de criaturas y jefes                                             |
+| `npcs/`           | Retratos e iconos de NPC                                                |
+| `objects/`        | Objetos del mundo (estatuas, cofres, trampas, …)                        |
+| `props/`          | Props pequeños y marcadores de estado / aviso                           |
+| `rings/`          | Iconos de anillos (`RING_*`)                                            |
+| `sa/`             | Insignias `SA_*`, incluidas las variantes bloqueado / desbloqueado      |
+| `seasons/`        | Marcos y pantallas de temporada GvG                                     |
+| `statues/`        | Iconos de estatuas de aniversario                                       |
+| `tutorial/`       | Iconos del tutorial                                                     |
+| `ui/`             | Elementos de interfaz: logos, botones, buffs, banners                   |
 
 ### Notas
 
