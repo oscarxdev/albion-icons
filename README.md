@@ -6,11 +6,11 @@
 
 ## English
 
-A collection of **most of the icons from Albion Online** — **2,948 PNG files** organized in 25 folders.
+A collection of **most of the icons from Albion Online** — **3,321 PNG files** organized in 25 folders.
 
 > **Not all of them.** Textures and other assets that weren't necessary for icon usage were removed, so this is a curated set rather than a full game rip.
 
-**Updated to the latest game patch.**
+**Updated to the latest game patch (November 2026).**
 
 ### Folder index
 
@@ -26,11 +26,11 @@ A collection of **most of the icons from Albion Online** — **2,948 PNG files**
 | `guild-symbols/`  | Guild emblems / symbols                                   |
 | `human-avatars/`  | Character portraits and avatars                           |
 | `icons/`          | Generic game icons (mounts, continents, seals, …)         |
-| `illustrations/`  | Illustrations and promo / offer artwork                   |
+| `illustrations/`  | Illustrations, skins and promo / offer artwork            |
 | `image-random/`   | Misc. activities, event and UI images                     |
 | `item-types/`     | Item category and station type icons (`TYPE_*`)           |
-| `journal/`        | Journal / progression category icons                      |
-| `maps/`           | Map tiles and minimap icons                               |
+| `journal/`        | Journal icons and header artwork                          |
+| `maps/`           | Map tiles, island maps and minimap icons                  |
 | `mobs/`           | Creature and boss icons                                   |
 | `npcs/`           | NPC portraits and icons                                   |
 | `objects/`        | World objects (statues, chests, traps, …)                 |
@@ -39,7 +39,7 @@ A collection of **most of the icons from Albion Online** — **2,948 PNG files**
 | `sa/`             | `SA_*` badges, including locked / unlocked variants       |
 | `seasons/`        | GvG season frames and splashes                            |
 | `statues/`        | Anniversary statue icons                                  |
-| `tutorial/`       | Tutorial icons                                            |
+| `tutorial/`       | Tutorial icons and guide images                           |
 | `ui/`             | UI elements: logos, buttons, buffs, banners               |
 
 ### Notes
@@ -47,16 +47,17 @@ A collection of **most of the icons from Albion Online** — **2,948 PNG files**
 - All files are **PNG** with transparency where applicable.
 - File names match the original game asset names, so they're easy to search by keyword.
 - Sizes vary depending on the source asset.
+- **November 2026 update:** 373 new assets, including skins, seasonal avatars, journal / tutorial artwork and new icons.
 
 ---
 
 ## Español
 
-Colección con **la mayoría de los iconos de Albion Online** — **2.948 ficheros PNG** organizados en 25 carpetas.
+Colección con **la mayoría de los iconos de Albion Online** — **3.321 ficheros PNG** organizados en 25 carpetas.
 
 > **No están todos.** Se eliminaron las texturas y demás recursos que no eran necesarios para usar los iconos, así que es una selección curada y no un volcado completo del juego.
 
-**Actualizados hasta el último parche.**
+**Actualizados hasta el último parche (noviembre de 2026).**
 
 ### Índice de carpetas
 
@@ -72,11 +73,11 @@ Colección con **la mayoría de los iconos de Albion Online** — **2.948 ficher
 | `guild-symbols/`  | Emblemas / símbolos de gremio                                           |
 | `human-avatars/`  | Retratos y avatares de personaje                                        |
 | `icons/`          | Iconos genéricos del juego (monturas, continentes, sellos, …)           |
-| `illustrations/`  | Ilustraciones y arte promocional / de ofertas                           |
+| `illustrations/`  | Ilustraciones, skins y arte promocional / de ofertas                    |
 | `image-random/`   | Imágenes varias de actividades, eventos e interfaz                      |
 | `item-types/`     | Iconos de categorías de objeto y tipos de estación (`TYPE_*`)           |
-| `journal/`        | Iconos de categorías del diario / progresión                            |
-| `maps/`           | Tiles de mapa e iconos de minimapa                                      |
+| `journal/`        | Iconos y arte de cabecera del diario                                    |
+| `maps/`           | Tiles de mapa, mapas de isla e iconos de minimapa                       |
 | `mobs/`           | Iconos de criaturas y jefes                                             |
 | `npcs/`           | Retratos e iconos de NPC                                                |
 | `objects/`        | Objetos del mundo (estatuas, cofres, trampas, …)                        |
@@ -85,7 +86,7 @@ Colección con **la mayoría de los iconos de Albion Online** — **2.948 ficher
 | `sa/`             | Insignias `SA_*`, incluidas las variantes bloqueado / desbloqueado      |
 | `seasons/`        | Marcos y pantallas de temporada GvG                                     |
 | `statues/`        | Iconos de estatuas de aniversario                                       |
-| `tutorial/`       | Iconos del tutorial                                                     |
+| `tutorial/`       | Iconos e imágenes de guía del tutorial                                  |
 | `ui/`             | Elementos de interfaz: logos, botones, buffs, banners                   |
 
 ### Notas
@@ -93,6 +94,7 @@ Colección con **la mayoría de los iconos de Albion Online** — **2.948 ficher
 - Todos los ficheros son **PNG**, con transparencia cuando corresponde.
 - Los nombres coinciden con los de los recursos originales del juego, así que se pueden buscar por palabra clave fácilmente.
 - Los tamaños varían según el recurso de origen.
+- **Actualización de noviembre de 2026:** 373 recursos nuevos, incluidas skins, avatares de temporada, arte del diario / tutorial e iconos nuevos.
 
 ---
 
